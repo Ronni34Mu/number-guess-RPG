@@ -1,2 +1,2 @@
 # number-guess-RPG
-A simple number-guessing RPG game
+A simple number-guessing RPG game. After allocating 10 skill points in health or attack damage, players will go on to fight randomized "Monsters" objects that will each have a randomized "target" number that the player has to guess. If the player guesses correctly, they will land a hit on the monster. If not, they will miss and a hint will be given to them of whether or not the target number is larger or smaller than their previous guess.
